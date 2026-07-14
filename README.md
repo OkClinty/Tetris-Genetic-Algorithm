@@ -1,0 +1,1 @@
+Creates the rules for a standard game of Tetris, where pieces fall down a 2D board and incrementally clear rows, as well as implements a genetic algorithm to maximize score. On its third generation, it's optimized to score over 100,000 points.
